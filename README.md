@@ -28,9 +28,9 @@ so that you can access and run the program. If you need help, follow the instruc
 In order to run this game program, you will then need to install the Python interpreter program, and Pygame onto your computer's 
 operating system (OS). Please use the website addesses below for assistance:
 
-*https://www.python.org/downloads/ - Use this link to download the appropriate Python version for your OS (e.g. Windows, Mac, Linux etc.).
+* https://www.python.org/downloads/ - Use this link to download the appropriate Python version for your OS (e.g. Windows, Mac, Linux etc.).
 
-*https://www.pygame.org/wiki/GettingStarted - Use this link as a guide to using Python's Installer Program (PIP) to install Pygame.
+* https://www.pygame.org/wiki/GettingStarted - Use this link as a guide to using Python's Installer Program (PIP) to install Pygame.
 
 Once you have finished installing Python and Pygame, you can view and run the code by accessing the IDLE program file that 
 automatically downloads with the Python program files. This is an Integrated Development Environment which allows you to read and 
